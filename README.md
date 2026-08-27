@@ -14,22 +14,22 @@ To develop a simple ATM Banking System that allows users to perform basic bankin
 8. Create a Deployment Diagram to illustrate the physical setup of the ATM Machine, Bank Server, and Database Server.
 9. Save the project and export all the diagrams as images or a PDF for documentation.
 # DIAGRAMS:
-1.Use Case Diagram
+## Use Case Diagram:
 <img width="795" height="812" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/20bb7795-cd2d-411c-a35d-9909246f1a98" />
 
-2.Class Diagram
+## Class Diagram:
 <img width="992" height="782" alt="ClassDiagram1" src="https://github.com/user-attachments/assets/21ad5f94-e5ee-4c63-9360-86ff7fdc67f7" />
 
-3.Communication Diagram
+## Communication Diagram:
 <img width="926" height="801" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/61e6b9b7-ba93-4cee-8d23-7cceb9827449" />
 
-4.Sequence Diagram
+## Sequence Diagram:
 <img width="1262" height="801" alt="SequenceDiagram1" src="https://github.com/user-attachments/assets/0563b2ea-827f-43c1-b085-0d98933a1344" />
 
-5.Activity Diagram
+## Activity Diagram:
 <img width="776" height="913" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/ed75d394-59e9-48eb-944c-8691104a50cd" />
 
-6.Package Diagram
+## Package Diagram:
 <img width="822" height="551" alt="PackageDiagram1" src="https://github.com/user-attachments/assets/f5a96065-4903-4c7c-a943-c08327107203" />
 
 
