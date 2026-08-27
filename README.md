@@ -4,7 +4,6 @@
 To develop a simple ATM Banking System that allows users to perform basic banking operations such as balance enquiry, cash withdrawal, cash deposit, and PIN change.
 
 # SRS (Procedure):
-# SRS (Procedure):
 1. Open StarUML and create a new project.
 2. Create a Use Case Diagram by adding the Customer actor and use cases such as Login, Balance Enquiry, Deposit, Withdrawal, Change PIN, Mini Statement, and Exit.
 3. Create a Class Diagram by adding the classes Customer, Account, and ATM, then define their attributes, methods, and relationships.
